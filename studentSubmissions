@@ -1,0 +1,93 @@
+
+{
+  "studentSubmissions": [
+    {
+      "courseId": "68175467592",
+      "courseWorkId": "68925260983",
+      "id": "Cg4Ix5byh7UBELeJkOKAAg",
+      "userId": "101118305894952289569",
+      "creationTime": "2020-04-09T13:16:16.674Z",
+      "updateTime": "2020-04-10T10:24:23.652Z",
+      "state": "RETURNED",
+      "draftGrade": 80,
+      "assignedGrade": 80,
+      "alternateLink": "https://classroom.google.com/c/NjgxNzU0Njc1OTJa/a/Njg5MjUyNjA5ODNa/submissions/student/NDg2MDMzNjgyNjNa",
+      "courseWorkType": "ASSIGNMENT",
+      "assignmentSubmission": {
+        "attachments": [
+          {
+            "driveFile": {
+              "id": "1OkSOUPyA9MQTcr1C02fs9eI9OqPATvm4",
+              "title": "uts permod.PNG",
+              "alternateLink": "https://drive.google.com/open?id=1OkSOUPyA9MQTcr1C02fs9eI9OqPATvm4",
+              "thumbnailUrl": "https://drive.google.com/thumbnail?id=1OkSOUPyA9MQTcr1C02fs9eI9OqPATvm4&sz=s200"
+            }
+          }
+        ]
+      },
+      "submissionHistory": [
+        {
+          "stateHistory": {
+            "state": "CREATED",
+            "stateTimestamp": "2020-04-09T13:16:16.668Z",
+            "actorUserId": "101118305894952289569"
+          }
+        },
+        {
+          "stateHistory": {
+            "state": "TURNED_IN",
+            "stateTimestamp": "2020-04-09T13:17:31.318Z",
+            "actorUserId": "101118305894952289569"
+          }
+        },
+        {
+          "gradeHistory": {
+            "pointsEarned": 80,
+            "maxPoints": 100,
+            "gradeTimestamp": "2020-04-10T10:24:19.613Z",
+            "actorUserId": "106406486442702302130",
+            "gradeChangeType": "DRAFT_GRADE_POINTS_EARNED_CHANGE"
+          }
+        },
+        {
+          "stateHistory": {
+            "state": "RETURNED",
+            "stateTimestamp": "2020-04-10T10:24:23.652Z",
+            "actorUserId": "106406486442702302130"
+          }
+        },
+        {
+          "gradeHistory": {
+            "pointsEarned": 80,
+            "maxPoints": 100,
+            "gradeTimestamp": "2020-04-10T10:24:23.652Z",
+            "actorUserId": "106406486442702302130",
+            "gradeChangeType": "ASSIGNED_GRADE_POINTS_EARNED_CHANGE"
+          }
+        }
+      ]
+    },
+    {
+      "courseId": "68175467592",
+      "courseWorkId": "68925260983",
+      "id": "Cg4IhdmS04ACELeJkOKAAg",
+      "userId": "112199964884463769273",
+      "creationTime": "2020-04-09T13:16:16.710Z",
+      "updateTime": "2020-04-09T13:16:16.701Z",
+      "state": "CREATED",
+      "alternateLink": "https://classroom.google.com/c/NjgxNzU0Njc1OTJa/a/Njg5MjUyNjA5ODNa/submissions/student/Njg4OTM4NDY2NjFa",
+      "courseWorkType": "ASSIGNMENT",
+      "assignmentSubmission": {},
+      "submissionHistory": [
+        {
+          "stateHistory": {
+            "state": "CREATED",
+            "stateTimestamp": "2020-04-09T13:16:16.701Z",
+            "actorUserId": "112199964884463769273"
+          }
+        }
+      ]
+    }
+  ]
+}
+

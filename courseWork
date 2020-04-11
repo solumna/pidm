@@ -1,0 +1,46 @@
+{
+  "courseWork": [
+    {
+      "courseId": "68175467592",
+      "id": "68925260983",
+      "title": "asdfasd",
+      "description": "asdf",
+      "materials": [
+        {
+          "form": {
+            "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd3E7papm9zM1xpucsCFtP1fGVeucAWHPCAs7s_3z3zWt1e0g/viewform",
+            "title": "Blank Quiz",
+            "thumbnailUrl": "https://lh6.googleusercontent.com/yaQBfqsnK-RwY2HT0pAiNSgAh67KY-a4sClHd9GDIM-pt2dgHdHD2vWfC-glA1STak5hPmw=w90-h90-p"
+          }
+        },
+        {
+          "driveFile": {
+            "driveFile": {
+              "id": "1KbNlJrFDNE2dDEZl9mXwXBoEsazAwVrOan05uKqSdx0",
+              "title": "Dokumen tanpa judul",
+              "alternateLink": "https://drive.google.com/open?id=1KbNlJrFDNE2dDEZl9mXwXBoEsazAwVrOan05uKqSdx0",
+              "thumbnailUrl": "https://drive.google.com/thumbnail?id=1KbNlJrFDNE2dDEZl9mXwXBoEsazAwVrOan05uKqSdx0&sz=s200"
+            },
+            "shareMode": "VIEW"
+          }
+        }
+      ],
+      "state": "PUBLISHED",
+      "alternateLink": "https://classroom.google.com/c/NjgxNzU0Njc1OTJa/a/Njg5MjUyNjA5ODNa/details",
+      "creationTime": "2020-04-09T13:16:15.876Z",
+      "updateTime": "2020-04-09T13:16:14.974Z",
+      "maxPoints": 100,
+      "workType": "ASSIGNMENT",
+      "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+      "assignment": {
+        "studentWorkFolder": {
+          "id": "0B2lqow-r6GrIflNmUFcxeVdlTTd2RG1LOU9xNmtaRDNUU0JGZlhjczVsSG5xQUhXSi1jM2c",
+          "title": "asdfasd",
+          "alternateLink": "https://drive.google.com/drive/folders/0B2lqow-r6GrIflNmUFcxeVdlTTd2RG1LOU9xNmtaRDNUU0JGZlhjczVsSG5xQUhXSi1jM2c"
+        }
+      },
+      "assigneeMode": "ALL_STUDENTS",
+      "creatorUserId": "106406486442702302130"
+    }
+  ]
+}

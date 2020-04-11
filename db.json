@@ -12,11 +12,11 @@
       "alternateLink": "https://classroom.google.com/c/NjgxNzU0Njc1OTJa",
       "teacherGroupEmail": "Test_Excel_guru_b710cfd7@classroom.google.com",
       "courseGroupEmail": "Test_Excel_9a3d30ef@classroom.google.com",
-      "teacherFolder": {
-        "id": "0B2lqow-r6GrIfkloVUFBeDRodngyNUUwelBOUWFpVl9iTF92eVBwSVc1Mkd2bF9HOXZfZU0",
-        "title": "Test Excel",
-        "alternateLink": "https://drive.google.com/drive/folders/0B2lqow-r6GrIfkloVUFBeDRodngyNUUwelBOUWFpVl9iTF92eVBwSVc1Mkd2bF9HOXZfZU0"
-      },
+      "teacherFolder": [
+	      {"id": "0B2lqow-r6GrIfkloVUFBeDRodngyNUUwelBOUWFpVl9iTF92eVBwSVc1Mkd2bF9HOXZfZU0"},
+	      {"title": "Test Excel"},
+	      {"alternateLink": "https://drive.google.com/drive/folders/0B2lqow-r6GrIfkloVUFBeDRodngyNUUwelBOUWFpVl9iTF92eVBwSVc1Mkd2bF9HOXZfZU0"},
+	]
       "guardiansEnabled": false,
       "calendarId": "classroom106456186673871456388@group.calendar.google.com"
     }
